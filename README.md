@@ -1,6 +1,6 @@
 # PyConsole
 
-A PS5-inspired game console interface written in Python with **pygame**: boot animation, a home screen of game tiles, three built-in games, trophies, high scores and gamepad support.
+A PS5 inspired game console interface written in Python with **pygame**: boot animation, a home screen of game tiles, three built-in games, trophies, high scores and gamepad support.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pygame](https://img.shields.io/badge/pygame-2.6-green)
